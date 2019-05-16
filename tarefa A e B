@@ -1,9 +1,9 @@
 Algoritmo "Exercicio"
-// Disciplina  :  [Linguagem e Lógica de Programação]
-// Professor   : Kaue Pinto da Silva
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Disciplina  :  logica e tecnicas de programação
+// Professor   : Alessandro
+// Descrição   : registrador de idades
 // Autor(a)    : Nome do(a) aluno(a)
-// Data atual  : 15/05/2019
+// Data atual  : 16/05/2019
 Var
 // Seção de Declarações das variáveis
 Contador: inteiro
