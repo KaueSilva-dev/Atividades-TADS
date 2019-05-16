@@ -1,8 +1,9 @@
 Algoritmo "Exercicio"
-// Disciplina  :  logica e tecnicas de programação
+// Disciplina  :  logica e técnicas de programação
 // Professor   : Alessandro
-// Descrição   : registrador de idades
-// Autor(a)    : Nome do(a) aluno(a)
+// Descrição   : programa em que o usuario digita idades e ele classifica entre
+// Menor, adulto e idoso.
+// Autor(a)    : Kaue Pinto da Silva.
 // Data atual  : 16/05/2019
 Var
 // Seção de Declarações das variáveis
@@ -17,7 +18,7 @@ Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc...
      escreva("digite uma idade: ")
      leia (idade)
-     se(idade>=0) e (idade<=18) entao
+     se (idade<=18) entao
         para contador de 1 ate 60 faca
              menores[contador] <- idade
      fimse
